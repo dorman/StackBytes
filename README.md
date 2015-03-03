@@ -2,7 +2,7 @@
 
 <img src="/Logos/piestacklogo.png">
 
-A GUI for the Restack Python API. This project is based off of my goal to use Restack as the backend storage unit for adding devices and dashboard. My main goal for this project is to have it be a management platform for IoT security based devices while leveraging Restack for the storage of devices. 
+A CLI for the Restack Python API. This project is based off of my goal to use Restack as the backend storage unit for adding devices and dashboard. My main goal for this project is to have it also be used as a platform for monitoring IoT devices that are specifically geared towards protecting against security attacks.
 
 However, I love Restack so that's why I wanted to use them as the backend and plus I didn't want to reinvent the wheel since they are already doing a great job developing a platform that manages IoT connected devices.
 
