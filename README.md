@@ -1,6 +1,6 @@
-# PieStack
+# StackBytes
 
-<img src="/Logos/piestacklogo.png">
+<img src="/Logos/logo.png">
 
 A CLI for the Restack Python API. This project is based off of my goal to use Restack as the backend storage unit for adding devices and dashboard. My main goal for this project is to have it also be used as a platform for monitoring IoT devices that are specifically geared towards protecting against security attacks.
 
